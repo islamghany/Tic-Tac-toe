@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-open [Tic tac toehttps](https://islamghany.github.io/tic-tac-toe) from here.
+open [Tic tac toe](https://islamghany.github.io/tic-tac-toe) from here.
 
 
 In the project directory, you can run:
